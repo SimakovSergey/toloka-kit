@@ -165,6 +165,7 @@ class Profile(Condition):
         DATE_OF_BIRTH = 'date_of_birth'
         CITY = 'city'
         LANGUAGES = 'languages'
+        VERIFIED = 'verified'
 
     def __init__(
         self,
